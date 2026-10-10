@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Project Workspace",
+  "description": "استيراد وتطوير مشاريع GitHub وتعديلها مباشرة في بيئة التطوير.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
